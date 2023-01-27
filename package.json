@@ -56,7 +56,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "taro-ui": "^3.1.0-beta.2",
-    "tarojs-plugin-platform-nextjs": "^2.0.7"
+    "tarojs-plugin-platform-nextjs": "^2.0.9"
   },
   "devDependencies": {
     "@babel/core": "^7.8.0",
