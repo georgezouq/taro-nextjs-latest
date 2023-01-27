@@ -13115,10 +13115,10 @@ taro-ui@^3.1.0-beta.2:
     prop-types "^15.7.2"
     react-native-modal "^13.0.0"
 
-tarojs-plugin-platform-nextjs@^2.0.7:
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/tarojs-plugin-platform-nextjs/-/tarojs-plugin-platform-nextjs-2.0.7.tgz#600adc152f91182d674aedafa2e8521e5183b21e"
-  integrity sha512-8xpBYU/aJDUDyRsddRsI8yi9ar3ACQH5UH1A8TdHyhB81wZXQoO8QkwxtweFQVbIOQlvGBa50a4605NguNU35Q==
+tarojs-plugin-platform-nextjs@^2.0.9:
+  version "2.0.9"
+  resolved "https://registry.npmjs.org/tarojs-plugin-platform-nextjs/-/tarojs-plugin-platform-nextjs-2.0.9.tgz#1e3ede71cc3e953d59e9fe071c2af2ae8fc01ec1"
+  integrity sha512-2gcUgok72vPDaNTl9Xh1hl4ATJp121DPIxDLyVt6vUazthAhugUHMIkMWif+zU66ig8KxEFFYw2QD0X1eVxb1A==
   dependencies:
     "@babel/core" "^7.17.7"
     "@babel/helper-split-export-declaration" "^7.16.7"
